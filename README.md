@@ -1,4 +1,4 @@
-# x-jailbreak
+# xchill-jailbreak
 
 це новий джелбрейк під ios 16-26.5.2
 
